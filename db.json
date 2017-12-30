@@ -1,232 +1,52 @@
 [
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
+    "name": "Captain America",
+    "realname": "Steve Rogers",
+    "team": "Avengers",
+    "firstappearance": "1941",
+    "createdby": "Joe Simon",
+    "publisher": "Marvel Comics",
+    "imageurl": "http://www.pngall.com/wp-content/uploads/2016/05/Captain-America-PNG-Clipart.png",
+    "bio": "\r\n\t\tSteven Rogers was born in the Lower East Side of Manhattan, New York City, in 1925 to poor Irish immigrants, Sarah and Joseph Rogers.[54] Joseph died when Steve was a child, and Sarah died of pneumonia while Steve was a teen. By early 1940, before America's entry into World War II, Rogers is a tall, scrawny fine arts student specializing in illustration and a comic book writer and artist.\r\n\t\t"
   },
   {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
+    "name": "Iron Man",
+    "realname": "Tony Stark",
+    "team": "Avengers",
+    "firstappearance": "1963",
+    "createdby": "Stan Lee",
+    "publisher": "Marvel Comics",
+    "imageurl": "http://www.pngall.com/wp-content/uploads/2016/05/Iron-Man-PNG-Image.png",
+    "bio": "\r\n\t\tAnthony Edward Stark, the son of wealthy industrialist and head of Stark Industries, Howard Stark, and Maria Stark. A boy genius, he enters MIT at the age of 15 to study electrical engineering and later receives master's degrees in electrical engineering and physics. After his parents are killed in a car accident, he inherits his father's company.\r\n\t\t"
   },
   {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    },
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
-    "company": {
-      "name": "Romaguera-Jacobson",
-      "catchPhrase": "Face to face bifurcated interface",
-      "bs": "e-enable strategic applications"
-    }
+    "name": "Wolvarine",
+    "realname": "James Howlett",
+    "team": "X-Men",
+    "firstappearance": "1974",
+    "createdby": "Len Wein",
+    "publisher": "Marvel Comics",
+    "imageurl": "http://pluspng.com/img-png/png-wolverine-image-wolverine-png-marvel-vs-capcom-wiki-fandom-powered-by-wikia-400.png",
+    "bio": "\r\n\t\tWolverine was born James Howlett in northern Alberta, Canada, during the late 1880s, purportedly to rich farm owners John and Elizabeth Howlett,[27] though he is actually the illegitimate son of the Howletts' groundskeeper, Thomas Logan.[28] After Thomas is thrown off the Howletts' property for an attempted rape perpetrated by his other son, named simply Dog, he returns to the Howlett manor and kills John Howlett. In retaliation, young James kills Thomas with bone claws that emerge from the back of his hands, as his mutation manifests.[29] He flees with his childhood companion, Rose, and grows into manhood on a mining colony in the Yukon, adopting the name \"Logan\".[30] When Logan accidentally kills Rose with his claws, he flees the colony and lives in the wilderness among wolves,[31] until he is captured and placed in a circus.[32] Saul Creed, brother of Victor Creed, frees Logan, but after he betrays Logan and Clara Creed to Nathaniel Essex, Logan drowns Creed in Essex's potion.[33] Logan returns to civilization, residing with the Blackfoot people. Following the death of his Blackfoot lover, Silver Fox, at the hands of Victor Creed, now known as Sabretooth,[34] he is ushered into the Canadian military during World War I. Logan spends time in Madripoor before settling in Japan, where he marries Itsu and has a son, Daken. Logan is unaware of his son for many years.\r\n\t\t"
   },
   {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "address": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257",
-      "geo": {
-        "lat": "29.4572",
-        "lng": "-164.2990"
-      }
-    },
-    "phone": "493-170-9623 x156",
-    "website": "kale.biz",
-    "company": {
-      "name": "Robel-Corkery",
-      "catchPhrase": "Multi-tiered zero tolerance productivity",
-      "bs": "transition cutting-edge web services"
-    }
+    "name": "Spiderman",
+    "realname": "Peter Parker",
+    "team": "Avengers",
+    "firstappearance": "1962",
+    "createdby": "Stan Lee",
+    "publisher": "Marvel Comics",
+    "imageurl": "https://img00.deviantart.net/eafa/i/2017/179/c/9/spider_man__homecoming_png_26_by_sidewinder16-dbeeqfy.png",
+    "bio": "\r\n\t\tIn Forest Hills, Queens, New York,[43] Midtown High School student Peter Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (Aug. 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and \"acquires the agility and proportionate strength of an arachnid\".[44] Along with super strength, Parker gains the ability to adhere to walls and ceilings. Through his native knack for science, he develops a gadget that lets him fire adhesive webbing of his own design through small, wrist-mounted barrels. Initially seeking to capitalize on his new abilities, Parker dons a costume and, as \"Spider-Man\", becomes a novelty television star. However, \"He blithely ignores the chance to stop a fleeing thief, [and] his indifference ironically catches up with him when the same criminal later robs and kills his Uncle Ben.\" Spider-Man tracks and subdues the killer and learns, in the story's next-to-last caption, \"With great power there must also come-great responsibility!\"[45]\r\n\t\t"
   },
   {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
-    "address": {
-      "street": "Skiles Walks",
-      "suite": "Suite 351",
-      "city": "Roscoeview",
-      "zipcode": "33263",
-      "geo": {
-        "lat": "-31.8129",
-        "lng": "62.5342"
-      }
-    },
-    "phone": "(254)954-1289",
-    "website": "demarco.info",
-    "company": {
-      "name": "Keebler LLC",
-      "catchPhrase": "User-centric fault-tolerant solution",
-      "bs": "revolutionize end-to-end systems"
-    }
-  },
-  {
-    "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
-    "address": {
-      "street": "Norberto Crossing",
-      "suite": "Apt. 950",
-      "city": "South Christy",
-      "zipcode": "23505-1337",
-      "geo": {
-        "lat": "-71.4197",
-        "lng": "71.7478"
-      }
-    },
-    "phone": "1-477-935-8478 x6430",
-    "website": "ola.org",
-    "company": {
-      "name": "Considine-Lockman",
-      "catchPhrase": "Synchronised bottom-line interface",
-      "bs": "e-enable innovative applications"
-    }
-  },
-  {
-    "id": 7,
-    "name": "Kurtis Weissnat",
-    "username": "Elwyn.Skiles",
-    "email": "Telly.Hoeger@billy.biz",
-    "address": {
-      "street": "Rex Trail",
-      "suite": "Suite 280",
-      "city": "Howemouth",
-      "zipcode": "58804-1099",
-      "geo": {
-        "lat": "24.8918",
-        "lng": "21.8984"
-      }
-    },
-    "phone": "210.067.6132",
-    "website": "elvis.io",
-    "company": {
-      "name": "Johns Group",
-      "catchPhrase": "Configurable multimedia task-force",
-      "bs": "generate enterprise e-tailers"
-    }
-  },
-  {
-    "id": 8,
-    "name": "Nicholas Runolfsdottir V",
-    "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
-    "address": {
-      "street": "Ellsworth Summit",
-      "suite": "Suite 729",
-      "city": "Aliyaview",
-      "zipcode": "45169",
-      "geo": {
-        "lat": "-14.3990",
-        "lng": "-120.7677"
-      }
-    },
-    "phone": "586.493.6943 x140",
-    "website": "jacynthe.com",
-    "company": {
-      "name": "Abernathy Group",
-      "catchPhrase": "Implemented secondary concept",
-      "bs": "e-enable extensible e-tailers"
-    }
-  },
-  {
-    "id": 9,
-    "name": "Glenna Reichert",
-    "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
-    "address": {
-      "street": "Dayna Park",
-      "suite": "Suite 449",
-      "city": "Bartholomebury",
-      "zipcode": "76495-3109",
-      "geo": {
-        "lat": "24.6463",
-        "lng": "-168.8889"
-      }
-    },
-    "phone": "(775)976-6794 x41206",
-    "website": "conrad.com",
-    "company": {
-      "name": "Yost and Sons",
-      "catchPhrase": "Switchable contextually-based project",
-      "bs": "aggregate real-time technologies"
-    }
-  },
-  {
-    "id": 10,
-    "name": "Clementina DuBuque",
-    "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "address": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261",
-      "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
-      }
-    },
-    "phone": "024-648-3804",
-    "website": "ambrose.net",
-    "company": {
-      "name": "Hoeger LLC",
-      "catchPhrase": "Centralized empowering task-force",
-      "bs": "target end-to-end models"
-    }
+    "name": "Thor",
+    "realname": "Thor Odinson",
+    "team": "Avengers",
+    "firstappearance": "1962",
+    "createdby": "Stan Lee",
+    "publisher": "Marvel Comics",
+    "imageurl": "http://clipart-library.com/image_gallery2/Thor-PNG-HD.png",
+    "bio": "\r\n\t\tThor's father Odin decides his son needed to be taught humility and consequently places Thor (without memories of godhood) into the body and memories of an existing, partially disabled human medical student, Donald Blake.[52] After becoming a doctor and on vacation in Norway, Blake witnesses the arrival of an alien scouting party. Blake flees from the aliens into a cave. After discovering Thor's hammer Mjolnir (disguised as a walking stick) and striking it against a rock, he transforms into the thunder god.[53] Later, in Thor #159, Blake is revealed to have always been Thor, Odin's enchantment having caused him to forget his history as The Thunder God and believe himself mortal.[54]\r\n\t\t"
   }
 ]
